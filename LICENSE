@@ -1,24 +1,24 @@
-BSD 2-Clause License
+สิทธิ์การใช้งาน BSD 2 ข้อ
 
 Copyright (c) 2022, อธิโชค แซ่จู้
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+การแจกจ่ายซ้ำและการใช้งานในรูปแบบซอร์สและไบนารี่ โดยมีหรือไม่มีก็ได้
+การปรับเปลี่ยนจะได้รับอนุญาตโดยมีเงื่อนไขว่าตรงตามเงื่อนไขต่อไปนี้:
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+1. การแจกจ่ายซอร์สโค้ดซ้ำจะต้องคงคำชี้แจงลิขสิทธิ์ข้างต้นไว้
+   รายการเงื่อนไขและข้อจำกัดความรับผิดชอบต่อไปนี้
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+2. การแจกจ่ายซ้ำในรูปแบบไบนารีจะต้องทำซ้ำประกาศลิขสิทธิ์ข้างต้น
+   รายการเงื่อนไขนี้และข้อจำกัดความรับผิดชอบต่อไปนี้ในเอกสารประกอบ
+   และ/หรือวัสดุอื่นๆ ที่ให้มากับการจำหน่าย
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ซอฟต์แวร์นี้จัดทำโดยผู้ถือลิขสิทธิ์และผู้มีส่วนร่วม "ตามสภาพที่เป็นอยู่"
+และการรับประกันโดยชัดแจ้งหรือโดยนัยใด ๆ รวมถึงแต่ไม่จำกัดเพียง
+การรับประกันโดยนัยของความสามารถในการค้าขายและความเหมาะสมสำหรับวัตถุประสงค์เฉพาะคือ
+ปฏิเสธความรับผิดชอบ ไม่ว่าในกรณีใดผู้ถือลิขสิทธิ์หรือผู้ร่วมให้ข้อมูลจะต้องรับผิด
+สำหรับโดยตรง, โดยอ้อม, โดยบังเอิญ, พิเศษ, ที่เป็นแบบอย่างหรือเป็นผลสืบเนื่องใดๆ
+ความเสียหาย (รวมถึงแต่ไม่จำกัดเพียงการจัดหาสินค้าทดแทนหรือ
+บริการ; การสูญเสียการใช้งาน ข้อมูล หรือผลกำไร หรือการหยุดชะงักทางธุรกิจ) อย่างไรก็ตาม
+เกิดขึ้นและตามทฤษฎีความรับผิดใด ๆ ไม่ว่าจะอยู่ในสัญญา ความรับผิดที่เข้มงวด
+หรือการละเมิด (รวมถึงความประมาทเลินเล่อหรืออย่างอื่น) ที่เกิดขึ้นในทางใดทางหนึ่งจากการใช้งาน
+ของซอฟต์แวร์นี้ แม้ว่าจะได้รับแจ้งถึงความเป็นไปได้ของความเสียหายดังกล่าวก็ตาม
